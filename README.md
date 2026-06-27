@@ -51,7 +51,7 @@ I'm a Computer Science undergraduate passionate about building scalable web appl
 
 * MongoDB
 
-### Cloud & Tools
+### Cloud , library & Tools
 
 * Git
 * GitHub
