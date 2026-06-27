@@ -18,6 +18,11 @@ I'm a Computer Science undergraduate passionate about building scalable web appl
 
 ## 🛠 Tech Stack
 
+### Full Stack
+
+*NextJs
+*MERN Stack
+
 ### Languages
 
 * C++
@@ -28,7 +33,6 @@ I'm a Computer Science undergraduate passionate about building scalable web appl
 ### Frontend
 
 * React.js
-* Next.js
 * HTML5
 * CSS3
 * Tailwind CSS
@@ -178,15 +182,6 @@ Includes conversion and arithmetic operations.
 
 ---
 
-# 📚 Coding Profiles
-
-* LeetCode
-* Coding Ninjas
-
-Currently solving DSA in C++ consistently.
-
----
-
 # 📈 2026 Goals
 
 * Solve 500+ LeetCode problems
@@ -197,11 +192,20 @@ Currently solving DSA in C++ consistently.
 
 ---
 
+# 📚 Coding Profiles
+
+* LeetCode : https://leetcode.com/u/Kunal_LISTEDMILE/
+* Coding Ninjas : https://www.naukri.com/code360/profile/KunalListedmile
+
+Currently solving DSA in C++ consistently.
+
+---
+
 ## 📫 Connect With Me
 
-* Portfolio
-* LinkedIn
-* GitHub
+* Portfolio : https://portfoliokunalsharma.vercel.app/
+* LinkedIn : www.linkedin.com/in/kunal-sharma-cse
+* GitHub : https://github.com/LISTEDMILE
 * Email: [listedmile@gmail.com](mailto:listedmile@gmail.com)
 
 ⭐ If you like my work, consider starring my repositories!
