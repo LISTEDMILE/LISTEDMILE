@@ -114,6 +114,10 @@ AI-powered Attendance Management System
 
 React • Node.js • Express • MongoDB • Python • FaceNet • Cloudinary • Resend • Kubernetes • Vercel • Render
 
+🔗 [**Live Demo**](https://opti-roll.vercel.app/)
+
+📂 [**Source Code**](https://github.com/LISTEDMILE/OptiRoll)
+
 ---
 
 ## 💼 HireSphere
@@ -130,6 +134,10 @@ A modern recruitment platform featuring
 
 MERN • GSAP • Cloudinary
 
+🔗 [**Live Demo**](https://hire-sphere-sy.vercel.app/)
+
+📂 [**Source Code**](https://github.com/LISTEDMILE/HireSphere)
+
 ---
 
 ## ❤️ UsStory
@@ -144,6 +152,10 @@ A storytelling platform where users can
 
 Built with React, Express, MongoDB and GSAP.
 
+🔗 [**Live Demo**](https://us-story.vercel.app/)
+
+📂 [**Source Code**](https://github.com/LISTEDMILE/UsStory)
+
 ---
 
 ## 🌐 Business365 Advisors
@@ -153,6 +165,8 @@ Animated corporate website built using
 * Next.js
 * GSAP
 * Tailwind CSS
+
+🔗 [**Live Demo**](https://www.b365advisors.com/)
 
 ---
 
@@ -166,6 +180,10 @@ Supports
 * Hexadecimal
 
 Includes conversion and arithmetic operations.
+
+🔗 [**Live Demo**](https://basechange.netlify.app/)
+
+📂 [**Source Code**](https://github.com/LISTEDMILE/BaseChange)
 
 ---
 
@@ -203,9 +221,9 @@ Currently solving DSA in C++ consistently.
 
 ## 📫 Connect With Me
 
-* Portfolio : https://portfoliokunalsharma.vercel.app/
-* LinkedIn : www.linkedin.com/in/kunal-sharma-cse
-* GitHub : https://github.com/LISTEDMILE
-* Email: [listedmile@gmail.com](mailto:listedmile@gmail.com)
-
+- 🌐 **Portfolio:** [portfoliokunalsharma.vercel.app](https://portfoliokunalsharma.vercel.app/)
+- 💼 **LinkedIn:** [Kunal Sharma](https://www.linkedin.com/in/kunal-sharma-cse/)
+- 🐙 **GitHub:** [LISTEDMILE](https://github.com/LISTEDMILE)
+- 📧 **Email:** <listedmile@gmail.com>
+- 
 ⭐ If you like my work, consider starring my repositories!
