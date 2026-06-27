@@ -20,8 +20,8 @@ I'm a Computer Science undergraduate passionate about building scalable web appl
 
 ### Full Stack
 
-*NextJs
-*MERN Stack
+* NextJs
+* MERN Stack
 
 ### Languages
 
@@ -189,7 +189,8 @@ Includes conversion and arithmetic operations.
 
 # 🏆 Achievements
 
-* 🥈 Silver Jubilee Poster Presentation (2022 & 2023)
+* Full Stack Web Development with AI Tools by Edunet Foundation
+* IoT for Cyber Physical Systems – IHUB Divya Sampark, IIT Roorkee
 * AWS Academy Cloud Foundations
 * Oracle Database Programming with SQL
 * MongoDB Certification
@@ -197,6 +198,9 @@ Includes conversion and arithmetic operations.
 * EY & Microsoft AI Skills Passport
 * NASSCOM Generative AI Literacy
 * Software Programmer (PMKVY)
+* Sig WebDev - CSI Society of India.
+---
+* 3rd place, Silver Jubilee Poster Presentation (2022 & 2023)
 
 ---
 
