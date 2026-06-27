@@ -87,7 +87,7 @@ I'm a Computer Science undergraduate passionate about building scalable web appl
 
 ### Technical Head
 
-Trinity Cyber Forum • CSI • Arcadia Society
+Trinity Cyber Forum  •  CSI  •  Arcadia Society
 
 * Leading technical teams.
 * Organizing coding events.
@@ -167,6 +167,30 @@ Animated corporate website built using
 * Tailwind CSS
 
 🔗 [**Live Demo**](https://www.b365advisors.com/)
+
+---
+
+## 🌐 CSI IPEC Society Website
+
+Official website for the **Computer Society of India (CSI) – IPEC** chapter.
+
+Built using
+
+* React.js
+* GSAP
+* Node.js
+* Express.js
+* MongoDB
+* Tailwind CSS
+
+✨ Features
+
+* Responsive and modern UI
+* Society events and announcements
+* Team members showcase
+* Contact and information pages
+
+🔗 [**Live Demo**](https://csiipec.vercel.app/)
 
 ---
 
