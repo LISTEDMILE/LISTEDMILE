@@ -112,7 +112,7 @@ AI-powered Attendance Management System
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • Python • FaceNet • Cloudinary • Resend • Kubernetes • Vercel • Render
+React • Node.js • Express • MongoDB • Python • FaceNet • Cloudinary • Resend • Hugging Face • Vercel • Render
 
 🔗 [**Live Demo**](https://opti-roll.vercel.app/)
 
