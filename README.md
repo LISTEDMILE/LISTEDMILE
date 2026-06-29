@@ -250,8 +250,8 @@ Currently solving DSA in C++ consistently.
 ## 📫 Connect With Me
 
 - 🌐 **Portfolio:** [portfoliokunalsharma.vercel.app](https://portfoliokunalsharma.vercel.app/)
-- 💼 **LinkedIn:** [Kunal Sharma](https://www.linkedin.com/in/kunal-sharma-cse/)
-- 🐙 **GitHub:** [LISTEDMILE](https://github.com/LISTEDMILE)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/kunal-sharma-cse/](https://www.linkedin.com/in/kunal-sharma-cse/)
+- 🐙 **GitHub:** [https://github.com/LISTEDMILE](https://github.com/LISTEDMILE)
 - 📧 **Email:** <listedmile@gmail.com>
 - 
 ⭐ If you like my work, consider starring my repositories!
