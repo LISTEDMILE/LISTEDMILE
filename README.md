@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kunal Sharma
 
-### Full Stack Developer | AI Enthusiast | C++ (DSA)
+### Full Stack Developer | AI Enthusiast | C++ (DSA)  
 
 I'm a Computer Science undergraduate passionate about building scalable web applications, AI-powered solutions, and interactive user experiences. I enjoy solving Data Structures & Algorithms problems and continuously learning modern technologies.
 
